@@ -458,6 +458,11 @@ form.form-search:before {
     margin-top: 40px;
     margin-bottom: 25px;
 }
+.shadowed_box h3{
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+    padding-bottom: 10px !important;
+}
 #content h4, #content h5, #content h6 {
     margin-top: 30px;
     margin-bottom: 20px;
